@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+        
+        <item android:id="@+id/action_settings" 
+              android:icon="@drawable/ic_menu_settings3" 
+              android:title="@string/action_settings" 
+              android:orderInCategory="100" 
+              android:showAsAction="never">
+            
+        </item>
+        <item android:id="@+id/menu_Help" android:orderInCategory="100" android:title="@string/menu_help" android:showAsAction="never" android:icon="@android:drawable/ic_menu_help"></item>
+</menu>

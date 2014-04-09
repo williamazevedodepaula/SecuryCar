@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="true"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/btSegUp"
+        android:layout_width="54dp"
+        android:layout_height="30dp"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/arrow_up_float" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/edtSeg"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/spinner_background"
+            android:ems="10"
+            android:inputType="number" />
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/btSegDown"
+        android:layout_width="54dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="15dp"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/arrow_down_float" />
+
+</LinearLayout>

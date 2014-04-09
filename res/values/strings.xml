@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecuryCar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Device_Settings">Config. do Dispositivo</string>
+    <string name="App_Settings">Config. do </string>
+    <string name="Unlock_Device">Desbloquear Veículo</string>
+    <string name="Lock_Device">Bloquear Veículo</string>
+    <string name="lbl_status">Status:</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="sobre">Sobre o </string>
+    <string name="Time_To_Lock">Tempo para Bloqueio</string>
+    <string name="Change_Password">Alterar Senha</string>
+    <string name="Device_List">Lista de Lispositivos</string>
+    <string name="Access_Pers">Permissões de Acesso</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="Configurations">Configurações</string>
+    
+    
+</resources>
